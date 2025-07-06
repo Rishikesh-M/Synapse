@@ -19,11 +19,11 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/synapse.git
+git clone https://github.com/Rishikesh-m/synapse.git
 cd synapse
 ```
 
-### 2. Set Up Virtual Environment (Optional but Recommended)
+### 2. Set Up Virtual Environment
 
 ```bash
 python -m venv venv
@@ -33,7 +33,7 @@ venv\Scripts\activate         # Windows
 
 ### 3. Install Dependencies
 
-If you're using only Python standard libraries, you may not need this step. If any external libraries are used (like `colorama`), install with:
+install with:
 
 ```bash
 pip install -r requirements.txt
@@ -46,25 +46,14 @@ pip install -r requirements.txt
 ### 📎 Basic Syntax
 
 ```bash
-python synapse.py <target_ip> <start_port> <end_port>
+python3 synapse.py
 ```
-
-### 📌 Example
-
-```bash
-python synapse.py 192.168.1.10 20 100
-```
-
-This command will scan TCP ports from 20 to 100 on the target IP `192.168.1.10`.
-
----
 
 ## 🧪 Sample Output
 
 ```
 [TCP] Port 22 is OPEN → OpenSSH 7.9
 [TCP] Port 80 is OPEN → Apache httpd
-[TCP] Port 443 is CLOSED
 ```
 
 ---
@@ -90,7 +79,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 **Rishikesh M**  
 GitHub: [@Rishikesh-m](https://github.com/Rishikesh-m)  
-LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/-rishikesh-m)  
 Website: [@Mockychuck](https://mockychuck.pages.dev)
 
 ---
