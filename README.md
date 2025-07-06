@@ -19,8 +19,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Rishikesh-m/synapse.git
-cd synapse
+git clone https://github.com/Rishikesh-m/Synapse.git
+cd Synapse
 ```
 
 ### 2. Set Up Virtual Environment
