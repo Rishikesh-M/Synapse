@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### 📎 Basic Syntax
 
 ```bash
-python3 synapse.py
+python synapse.py
 ```
 
 ## 🧪 Sample Output
@@ -79,7 +79,7 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 **Rishikesh M**  
 GitHub: [@Rishikesh-m](https://github.com/Rishikesh-m)  
-LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/-rishikesh-m)  
+LinkedIn: [linkedin.com/in/-rishikesh-m](https://linkedin.com/in/-rishikesh-m)  
 Website: [@Mockychuck](https://mockychuck.pages.dev)
 
 ---
