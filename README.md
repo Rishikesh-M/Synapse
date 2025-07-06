@@ -23,7 +23,7 @@ git clone https://github.com/Rishikesh-m/Synapse.git
 cd Synapse
 ```
 
-### 2. Set Up Virtual Environment
+### 2. Set Up Virtual Environment (Optional)
 
 ```bash
 python -m venv venv
