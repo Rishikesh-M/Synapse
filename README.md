@@ -36,7 +36,7 @@ venv\Scripts\activate         # Windows
 ### 📎 Basic Syntax
 
 ```bash
-python synapse.py
+python synapse.py <target_ip> <start_port> <end_port> [timeout]
 ```
 
 ## 🧪 Sample Output
